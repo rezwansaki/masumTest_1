@@ -1,0 +1,32 @@
+form{
+width: 100px;
+height: auto;
+}
+
+#txtSentTo {
+width: 340px;
+height: 20px;
+border: 1px solid black;
+margin-bottom: 5px;
+font: 14px arial, sans-serif black;
+}
+
+#txtSubject {
+width: 340px;
+height: 20px;
+border: 1px solid black;
+margin-bottom: 5px;
+font: 14px arial, sans-serif black;
+}
+
+#txtMailBody {
+width: 340px;
+margin-bottom: 5px;
+border: 1px solid black;
+font: 14px arial, sans-serif black;
+}
+
+#btnSend{
+margin-left: 290px;
+}
+
